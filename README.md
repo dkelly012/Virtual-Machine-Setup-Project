@@ -24,8 +24,6 @@ The goal was to create a working lab environment using virtualization software t
 - Network configuration
 - Troubleshooting system errors
 
-## Screenshots
-
 
 ## What I Learned
 I learned how to build a safe testing environment using virtual machines. This is important in cybersecurity because it allows testing tools and attacks without affecting real systems.
